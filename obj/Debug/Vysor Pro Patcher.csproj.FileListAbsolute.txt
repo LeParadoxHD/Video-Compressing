@@ -1,0 +1,9 @@
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Debug\Vysor Pro Patcher.exe.config
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Debug\Vysor Pro Patcher.exe
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Debug\Vysor Pro Patcher.pdb
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor Pro Patcher.csprojResolveAssemblyReference.cache
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor_Pro_Patcher.Principal.resources
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor_Pro_Patcher.Properties.Resources.resources
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor Pro Patcher.csproj.GenerateResource.Cache
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor Pro Patcher.exe
+c:\users\leparadoxhd\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Debug\Vysor Pro Patcher.pdb

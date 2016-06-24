@@ -1,0 +1,17 @@
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.exe.config
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.exe
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.pdb
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor_Pro_Patcher.Principal.resources
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor_Pro_Patcher.Properties.Resources.resources
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.csproj.GenerateResource.Cache
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.exe
+C:\Users\LeParadoxHD\documents\visual studio 2015\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.pdb
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.exe.config
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.exe
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.pdb
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.csprojResolveAssemblyReference.cache
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor_Pro_Patcher.Principal.resources
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor_Pro_Patcher.Properties.Resources.resources
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\obj\Release\Vysor Pro Patcher.csproj.GenerateResource.Cache
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.exe
+Z:\Projects\Vysor Pro Patcher\Vysor Pro Patcher\bin\Release\Vysor Pro Patcher.pdb
